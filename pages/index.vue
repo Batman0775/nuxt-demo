@@ -1,42 +1,52 @@
 <template>
-    <div>
-        <section class="hero py-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div>
-                        <h1>This is home Page.</h1>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam voluptate ipsam exercitationem eius, cum praesentium quo blanditiis illo vero officia aspernatur quis eos non culpa temporibus corporis atque? Commodi facere ipsam totam reprehenderit? Explicabo optio porro numquam provident sunt dolorem expedita cumque officiis, eveniet, voluptas natus voluptatibus, soluta fugit minus?</p>
-                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    
-    <!-- card -->
-    <section class="py-5">
+<div>
+    <section class="world py-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
+                    <h1>welcome to home page</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos eum laboriosam, minus nostrum facilis voluptate. Alias rerum optio molestias animi, asperiores recusandae necessitatibus sit. Optio magnam tempora odit suscipit laborum qui, labore dolorem libero praesentium possimus vel rerum illo quos eveniet ipsum aspernatur, in, sed perspiciatis. Consequatur quia laboriosam eius nemo officiis. Blanditiis est suscipit optio similique corrupti eaque quae nesciunt laborum, accusamus in odio aliquam pariatur voluptatum, numquam distinctio, id ipsa dolor animi. Obcaecati animi dolore ad quaerat magnam pariatur quis reprehenderit inventore suscipit. Sint nisi possimus, iure vel consequuntur perspiciatis fuga obcaecati recusandae hic voluptatum eligendi illo error aliquam ipsa nulla vero voluptatibus voluptatem sed! Laboriosam dolorum iusto, soluta quaerat provident veritatis sint magni voluptatem dignissimos hic, incidunt ullam numquam velit, rerum minus possimus qui facilis. Quidem et fuga ut in maxime illo beatae sapiente aliquid impedit atque fugit laudantium blanditiis reprehenderit ducimus ex, voluptatem, vero obcaecati iste.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- card -->
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
                     <div class="card">
-                       <div>
-                        <img src="https://cdn.pixabay.com/photo/2023/03/02/20/59/town-hall-tower-7826491__340.jpg" alt="">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, aut deserunt. Suscipit dolore repellat maxime, similique vero iure? Asperiores, beatae, temporibus vero minus nemo iste id corrupti aliquid voluptatibus corporis amet sunt eligendi, neque tempore molestiae ducimus dolorum veniam ab quasi! Quod tempore quaerat aperiam iure fugit molestias deleniti incidunt!</p>
-                       </div>
+                        <img src="https://cdn.pixabay.com/photo/2023/05/21/20/21/meadowsweet-8009380_1280.jpg" alt="">
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus maxime veniam pariatur ut. Commodi sunt maiores aliquam mollitia error, dolores accusamus quaerat hic in exercitationem.</p>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <div class="card">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="https://cdn.pixabay.com/photo/2023/05/17/08/55/tree-7999477_1280.jpg" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolorum saepe exercitationem ducimus, voluptatibus quas enim a minima eos. Quaerat velit aliquid dolorem, dolores praesentium veritatis porro id! Doloribus culpa animi ullam atque excepturi, fugit asperiores dicta voluptatum minima dolor, odio reprehenderit alias magni exercitationem nemo, dolorum aperiam laudantium? Earum in blanditiis cupiditate nihil. Quis tempore dolorum ducimus possimus molestiae quos sapiente eum, assumenda sint!</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+</div>
 </template>
 
 <script setup>
 
 </script>
 
-<style  scoped>
-.hero{
-    background-color: gray
+<style scoped>
+.world {
+    background-color: grey;
+    text-align: center;
+    height: 300px;
 }
 </style>
