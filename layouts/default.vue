@@ -24,6 +24,9 @@
                         <li class="nav-item">
                             <nuxt-link to="/gallery" class="nav-link">Gallery</nuxt-link>
                         </li>
+                        <li class="nav-item">
+                            <nuxt-link to="/products" class="nav-link">Products</nuxt-link>
+                        </li>
                     </ul>
                     <form class="d-flex">
                         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

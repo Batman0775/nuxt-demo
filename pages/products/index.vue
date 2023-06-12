@@ -25,7 +25,7 @@
 
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
 img {
     filter: grayscale() blur(2px);
     transition: 1s;
