@@ -41,7 +41,42 @@
     </main>
 
     <footer>
-
+      <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="https://cdn.pixabay.com/photo/2023/06/07/18/14/giraffes-8047856_640.jpg" alt="">
+                </div>
+                <div>
+                    <span>9862130505</span>
+                    <span>, 025-525163</span>
+                </div>
+                <p>info@codeit.com.np</p>
+                <p>Prithvi Path,Dharan</p>
+            </div>
+            <div class="col-md-3">
+                <h6>Quick Links</h6>
+                <p>About Us</p>
+                <p>Contact Us</p>
+                <p>Gallery</p>
+                <p>Blog</p>
+            </div>
+            <div class="col-md-3">
+                <h6>Bank Account Detail</h6>
+                <p>Bank: Nepal Bank Limited</p>
+                <p>Account Name: CODE IT</p>
+                <p>Ac/No.: 01600106885462000001</p>
+                <p>Branch: Dharan</p>
+            </div>
+            <div class="col-md-3">
+                <h6>
+                    Download App
+                </h6>
+                <p>Download our mobile app.</p>
+            </div>
+        </div>
+        
+      </section>
     </footer>
 </div>
 </template>

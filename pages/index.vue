@@ -12,7 +12,7 @@
     </section>
 
     <!-- card -->
-    <section>
+    <section class="py-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
@@ -25,10 +25,10 @@
                     <div class="card">
                         <div class="row">
                             <div class="col-md-6">
-                                <img src="https://cdn.pixabay.com/photo/2023/05/17/08/55/tree-7999477_1280.jpg" alt="">
+                                <img src="https://cdn.pixabay.com/photo/2023/05/17/08/55/tree-7999477_1280.jpg" alt="" width="400px" height="400px">
                             </div>
                             <div class="col-md-6">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolorum saepe exercitationem ducimus, voluptatibus quas enim a minima eos. Quaerat velit aliquid dolorem, dolores praesentium veritatis porro id! Doloribus culpa animi ullam atque excepturi, fugit asperiores dicta voluptatum minima dolor, odio reprehenderit alias magni exercitationem nemo, dolorum aperiam laudantium? Earum in blanditiis cupiditate nihil. Quis tempore dolorum ducimus possimus molestiae quos sapiente eum, assumenda sint!</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolorum saepe exercitationem ducimus, voluptatibus quas enim a minima eos. Quaerat velit aliquid dolorem, dolores praesentium veritatis porro id! Doloribus culpa animi ullam atque excepturi, fugit jsghgefrehhdgfeuyreurueyrghreuwj hehyyyee hegyeurer hueruee hwdgwyrty wgeyertev wegy uereryye gergred geweryyererhrrhe ergyrerbewqhw gyyrt4t jhrirefbmna jkrryqiqtyegaajshr jhfaeiurr jhgeuruiyghfbn huryru jeeuryrb ftdeeds tgdgf sndfaejry ejhawye hgyvb bvee  </p>
                             </div>
                         </div>
                     </div>
@@ -48,5 +48,10 @@
     background-color: grey;
     text-align: center;
     height: 300px;
+}
+.card{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px 10px grey;
 }
 </style>
