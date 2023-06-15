@@ -8,7 +8,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">  
                         <li class="nav-item">
                             <nuxt-link to="/" class="nav-link">Home</nuxt-link>
                         </li>
@@ -28,10 +28,7 @@
                             <nuxt-link to="/products" class="nav-link">Products</nuxt-link>
                         </li>
                     </ul>
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
+                    
                 </div>
             </div>
         </nav>
@@ -41,21 +38,22 @@
     </main>
 
     <footer>
-      <section>
+      <section class="py-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="https://cdn.pixabay.com/photo/2023/06/07/18/14/giraffes-8047856_640.jpg" alt="">
-                </div>
-                <div>
+                    <img src="https://codeit.com.np/images/1642171339codeIT%20logo.png" alt="" width="150px" height="50px">
+                    <div>
                     <span>9862130505</span>
                     <span>, 025-525163</span>
                 </div>
                 <p>info@codeit.com.np</p>
                 <p>Prithvi Path,Dharan</p>
-            </div>
-            <div class="col-md-3">
-                <h6>Quick Links</h6>
+                </div>
+                <div class="col-md-3">
+                <h6>Quick links 
+                   <hr>
+                </h6>
                 <p>About Us</p>
                 <p>Contact Us</p>
                 <p>Gallery</p>
@@ -67,13 +65,23 @@
                 <p>Account Name: CODE IT</p>
                 <p>Ac/No.: 01600106885462000001</p>
                 <p>Branch: Dharan</p>
+                <div class="container">
+                    <img src="https://codeit.com.np/asset/img/fonepay-bg.png" alt="" width="100px" height="50px">
+                    <img src="https://codeit.com.np/asset/img/codeit-qr.jpg" alt="" width="100px" height="100px">
+                </div>
             </div>
             <div class="col-md-3">
                 <h6>
                     Download App
                 </h6>
                 <p>Download our mobile app.</p>
+                <div class="container">
+                    <img src="https://codeit.com.np/mobile/appstore.png" alt="">
+                    <img src="https://codeit.com.np/mobile/googleplay.png" alt="">
+                </div>
             </div>
+            </div>
+            
         </div>
         
       </section>
