@@ -1,6 +1,6 @@
 <template>
     <div>
-
+        <productCard></productCard>
     </div>
 </template>
 
