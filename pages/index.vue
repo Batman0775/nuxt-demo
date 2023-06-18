@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://cdn.pixabay.com/photo/2023/05/21/20/21/meadowsweet-8009380_1280.jpg" alt="">
+                        <img src="https://cdn.pixabay.com/photo/2023/06/12/18/08/animals-8059068__340.png" alt="">
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus maxime veniam pariatur ut. Commodi sunt maiores aliquam mollitia error, dolores accusamus quaerat hic in exercitationem.</p>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                     <div class="card">
                         <div class="row">
                             <div class="col-md-6">
-                                <img src="https://cdn.pixabay.com/photo/2023/05/17/08/55/tree-7999477_1280.jpg" alt="" width="400px" height="400px">
+                                <img src="https://cdn.pixabay.com/photo/2023/05/25/11/28/fox-8016957__340.jpg" alt="" width="350px" height="400px">
                             </div>
                             <div class="col-md-6">
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt dolorum saepe exercitationem ducimus, voluptatibus quas enim a minima eos. Quaerat velit aliquid dolorem, dolores praesentium veritatis porro id! Doloribus culpa animi ullam atque excepturi, fugit jsghgefrehhdgfeuyreurueyrghreuwj hehyyyee hegyeurer hueruee hwdgwyrty wgeyertev wegy uereryye gergred geweryyererhrrhe ergyrerbewqhw gyyrt4t jhrirefbmna jkrryqiqtyegaajshr jhfaeiurr jhgeuruiyghfbn huryru jeeuryrb ftdeeds tgdgf sndfaejry ejhawye hgyvb bvee  </p>

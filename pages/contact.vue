@@ -1,6 +1,7 @@
-<template>
+<template> 
     <div>
-        <productCard></productCard>
+        <h1>This is contact page.</h1>
+        <productCard/>
     </div>
 </template>
 

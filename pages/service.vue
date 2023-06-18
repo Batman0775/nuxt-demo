@@ -1,6 +1,7 @@
 <template>
     <div>
-        <productCard></productCard>
+        <h1>This is our service page.</h1>
+        <productCard/>
     </div>
 </template>
 
